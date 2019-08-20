@@ -4,3 +4,4 @@ angular项目
 cnpm i -g bower
 2、初始化bower
 bower init
+bower install --save angular
