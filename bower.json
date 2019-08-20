@@ -1,0 +1,23 @@
+{
+  "name": "web_app_1",
+  "homepage": "https://github.com/dhlsp/web_app_1",
+  "authors": [
+    "dhlsp <dhlsp2018@126.com>"
+  ],
+  "description": "angularjs webapp",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
